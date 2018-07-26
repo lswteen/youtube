@@ -8,9 +8,7 @@
     바로가기 : https://www.apple.com/kr/final-cut-pro/trial/thankyou/
     - Final Cut Pro 메뉴얼 
     학습하기
-    
-# 아이디어    
-      
+
 ##challenge body
 
       큰틀 : 먹는거조절하면서 운동하기 or 먹는거 조절안하면서 운동하기
