@@ -8,8 +8,10 @@
     바로가기 : https://www.apple.com/kr/final-cut-pro/trial/thankyou/
     - Final Cut Pro 메뉴얼 
     학습하기
+    파이널 컷 템플릿
+    http://finalcut-pro.tistory.com/213
 
-##challenge body
+## challenge body
 
       큰틀 : 먹는거조절하면서 운동하기 or 먹는거 조절안하면서 운동하기
     
@@ -44,6 +46,8 @@
       
       인터뷰 영상 스타일
       밝고 파이팅넘치고 위트있구 재미나게 약빤거처럼
+
+## 
       
 ## 다이어트 APP
     - 1일,일주일,보름,한달,두달,세달 패키지로 판매
