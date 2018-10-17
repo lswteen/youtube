@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="524b60ad-20cd-4fe6-aa05-086406516a24" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/PROJECT/Motion5/반응형자막.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT/Motion5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROJECT/Motion5/예능형자막.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -22,31 +23,32 @@
     <session id="1484978487">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="5" />
+          <entry key="md" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="5" />
+          <entry key="Markdown" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="808" />
+          <entry key="md" value="889" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="808" />
+          <entry key="Markdown" value="889" />
         </counts>
       </usages-collector>
     </session>
@@ -71,8 +73,20 @@
             <entry file="file://$PROJECT_DIR$/PROJECT/15금리뷰/README.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="FIRST">
-                  <first_editor relative-caret-position="17">
-                    <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="3" />
+                  <first_editor relative-caret-position="170">
+                    <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/PROJECT/Motion5/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="34">
+                    <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
                   </first_editor>
                   <second_editor />
                 </state>
@@ -103,12 +117,12 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/PROJECT/Motion5/반응형자막.md">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/PROJECT/Motion5/예능형자막.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="FIRST">
-                  <first_editor relative-caret-position="272">
-                    <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="136">
+                    <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
                   </first_editor>
                   <second_editor />
                 </state>
@@ -128,13 +142,25 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/PROJECT/다이어트/README.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="FIRST">
-                  <first_editor relative-caret-position="153">
-                    <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+                  <first_editor relative-caret-position="255">
+                    <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/PROJECT/Motion5/반응형자막.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="FIRST">
+                  <first_editor relative-caret-position="34">
+                    <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="3" />
                   </first_editor>
                   <second_editor />
                 </state>
@@ -383,6 +409,8 @@
         <option value="$PROJECT_DIR$/PROJECT/운동/README.md" />
         <option value="$PROJECT_DIR$/PROJECT/과일리뷰/README.md" />
         <option value="$PROJECT_DIR$/PROJECT/Motion5/반응형자막.md" />
+        <option value="$PROJECT_DIR$/PROJECT/Motion5/예능형자막.md" />
+        <option value="$PROJECT_DIR$/PROJECT/Motion5/README.md" />
       </list>
     </option>
   </component>
@@ -406,15 +434,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="youtube" type="b2602c69:ProjectViewProjectNode" />
               <item name="youtube" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtube" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youtube" type="462c0819:PsiDirectoryNode" />
+              <item name="PROJECT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtube" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youtube" type="462c0819:PsiDirectoryNode" />
+              <item name="PROJECT" type="462c0819:PsiDirectoryNode" />
+              <item name="Motion5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtube" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youtube" type="462c0819:PsiDirectoryNode" />
+              <item name="PROJECT" type="462c0819:PsiDirectoryNode" />
+              <item name="과일리뷰" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="youtube" type="b2602c69:ProjectViewProjectNode" />
@@ -429,7 +474,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539683767641" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539768644600" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -505,18 +550,19 @@
       <workItem from="1538365830205" duration="571000" />
       <workItem from="1538441628656" duration="400000" />
       <workItem from="1539573365834" duration="99000" />
-      <workItem from="1539668798232" duration="4054000" />
+      <workItem from="1539668798232" duration="4169000" />
+      <workItem from="1539739021737" duration="1492000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36179000" />
+    <option name="totallyTimeSpent" value="37786000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2560" y="-367" width="2560" height="1417" extended-state="6" />
+    <frame x="-1626" y="126" width="1625" height="925" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07664813" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12318383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -530,7 +576,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.066415094" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.10564226" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -566,13 +612,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PROJECT/4분TABATA/README.md">
+      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/PROJECT/몇살까지돈벌어야되지계산하기/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -598,9 +644,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PROJECT/15금리뷰/README.md">
+    <entry file="file://$PROJECT_DIR$/PROJECT/창업/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROJECT/다이어트/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROJECT/Motion5/예능형자막.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROJECT/과일리뷰/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
           <first_editor relative-caret-position="17">
             <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="3" />
           </first_editor>
@@ -618,39 +702,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PROJECT/과일리뷰/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PROJECT/창업/README.md">
+    <entry file="file://$PROJECT_DIR$/PROJECT/15금리뷰/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PROJECT/다이어트/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="153">
-            <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -659,8 +715,18 @@
     <entry file="file://$PROJECT_DIR$/PROJECT/Motion5/반응형자막.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="272">
-            <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <first_editor relative-caret-position="34">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROJECT/Motion5/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
